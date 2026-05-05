@@ -1,7 +1,5 @@
 # Anonymous Person Tracking
 
-# Anonymous Person Tracking
-
 This project explores a privacy-preserving approach to tracking people in video streams without identifying who they are.
 
 The system detects individuals and assigns them temporary anonymous IDs, allowing movement patterns to be analyzed while maintaining privacy.
